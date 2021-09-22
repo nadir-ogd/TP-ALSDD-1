@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1589899457 source:c:\users\t470\desktop\tp alsdd 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"graphique.h"
+
+1585230156 source:c:\users\t470\desktop\tp alsdd 1\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1585230156 c:\users\t470\desktop\tp alsdd 1\conio2.h
+	<conio.h>
+	<windows.h>
+
+1589165580 c:\users\t470\desktop\tp alsdd 1\graphique.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1448213844 source:c:\users\t470\desktop\tp alsdd 1\conio21\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1448213844 c:\users\t470\desktop\tp alsdd 1\conio21\conio2.h
+	<conio.h>
+	<windows.h>
+
+1589899457 source:c:\users\t470\desktop\tpalsdd1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"graphique.h"
+
+1589165580 c:\users\t470\desktop\tpalsdd1\graphique.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1589899457 source:c:\users\t470\desktop\esi\tpalsdd1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"graphique.h"
+
+1589165580 c:\users\t470\desktop\esi\tpalsdd1\graphique.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1621792386 source:c:\users\t470\desktop\esi\1cp\tpalsdd1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"graphique.h"
+
+1621773625 c:\users\t470\desktop\esi\1cp\tpalsdd1\graphique.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
